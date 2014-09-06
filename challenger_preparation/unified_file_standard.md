@@ -9,7 +9,6 @@
 
 ![0](../assets/challenger_preparation/unified_file_standard/team10_yuantao_1.jpg)
 
-
 * admin : 所有与人力，物资等相关的管理信息，应当放置在admin文件夹中；
 * data : 大量数据，各种数据库文件内容可放置在data文件夹中；
 * docs : 其他说明性的文件，放置在Docs文件夹中；
@@ -20,8 +19,4 @@
 * tools : 软件相关工具，放在tools文件夹中；
 * 若有除此以外的其它内容，可另行新建目录存放。以上这些规范，将有利于后续人员使用这些内容，请务必遵守。
 
-
 ![0](../assets/challenger_preparation/unified_file_standard/team10_yuantao_2.jpg)
-
---15(team10)
-移至4.6

@@ -8,8 +8,6 @@
 	*  所有的内容需要先做出故事板，做出大概的框架，先做出原型产品，再进行细化。
 
 ![0](../assets/challenger_preparation/how_to_desgin_storyboard/00.jpg)
->>>>>>> 918d715a4b7f0bd96f82b4200e105c69ec273bd0
-
 
 ![0](../assets/challenger_preparation/how_to_desgin_storyboard/01.jpg)
 
