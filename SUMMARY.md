@@ -82,7 +82,7 @@
    * [2014.01 跨学科系统集成设计挑战](case/summar_camp.md)
    * [2014.07 清华大学附属中学 XLP活动](case/database_principle.md)
    * [过往XLP学习闪光点](case/cross_challenge.md)
-   * [过往XLP学习的遗憾](case/timt.md)
+   * [过往XLP学习的遗憾](case/TIMT.md)
    * [2014.09 清华大学工程管理硕士工程导论](case/diagram.md)
    * [XLP2014数据分析](case/git_score.md)
 * [工具](tools/readme.md)
