@@ -10,24 +10,27 @@
 另外一种现场筛选人的方法，就是让报名者自己自行组成小组然后选出自己的组长。在3到5分钟左右的时间内，给他们一个问题让他们讨论。也可以让这些人做一个十页左右的手绘简报(故事板)。这个简报将看出来那些人具有组织信息的能力与沟通群众的能力。
 发言比较踊跃、比较喜欢带领他人的报名者，很快就会在现场展现他们的个性。不积极发言的人也可能有他们的特长，例如经由同伴的推荐。经过这层层小而巧的活动筛选，留下来的人选才会有一些对此类活动的心理准备。
 
-工具使用范例![0](../assets/challenger_preparation/personnel_election_tips/00.jpg)
+### 工具使用范例
 
-个人信息表范例![0](../assets/challenger_preparation/personnel_election_tips/01.jpg)
+![0](../assets/challenger_preparation/personnel_election_tips/00.jpg)
+
+### 个人信息表范例
+
+![0](../assets/challenger_preparation/personnel_election_tips/01.jpg)
 
 
-实际分组情况![0](../assets/challenger_preparation/personnel_election_tips/group.jpg)
+### 实际分组情况
 
+![0](../assets/challenger_preparation/personnel_election_tips/group.jpg)
 
 组员首次活动30分钟，自我介绍，互相熟悉，设计组名和logo，选择组长，观察组员的反应，试着发现相关的合适人选。
 
 * 人员专长挖掘
-
-职业测评，如DISC
-识别个人特质，为选择适合的团队角色提供依据
-Git Game
-判断个人是否能够尊重团队协作规则
-18分钟的棉花糖挑战
-可以识别团队的决策过程性格特点
+* 职业测评，如DISC
+* 识别个人特质，为选择适合的团队角色提供依据
+* Git Game
+* 判断个人是否能够尊重团队协作规则
+* 18分钟的棉花糖挑战
+* 可以识别团队的决策过程性格特点
 
 ![0](..\assets\challenger_preparation\expertise_in_mining_and_classification_method\Team11ChenZhijun01.png)
-
